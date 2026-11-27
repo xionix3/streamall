@@ -6,7 +6,7 @@
 | --- | --- |
 | Windows | [Installer (.msi)](https://github.com/xionix3/streamall/releases/latest/download/streamall-windows.msi) |
 | Android und Android TV | [App (.apk)](https://github.com/xionix3/streamall/releases/latest/download/streamall-android.apk) |
-| Enigma2 (SF8008) | [IPK für 3.4.40](https://github.com/xionix3/streamall/releases/download/v3.4.40/enigma2-plugin-extensions-streamall_3.4.40_sf8008.ipk) · [Aktueller Release](https://github.com/xionix3/streamall/releases/latest) |
+| Enigma2 (SF8008) | [IPK für 3.4.51](https://github.com/xionix3/streamall/releases/download/v3.4.51/enigma2-plugin-extensions-streamall_3.4.51_sf8008.ipk) · [Aktueller Release](https://github.com/xionix3/streamall/releases/latest) |
 | Linux | [Debian/Ubuntu (.deb)](https://github.com/xionix3/streamall/releases/latest/download/streamall-linux.deb) · [Fedora/openSUSE (.rpm)](https://github.com/xionix3/streamall/releases/latest/download/streamall-linux.rpm) |
 | Optionale Portale | [Portalpakete und Installation](https://github.com/xionix3/streamall-addon#installation) |
 
@@ -17,5 +17,7 @@
 Installiere zuerst Streamall für dein Gerät. Die App prüft beim Start, ob es eine neuere Version gibt. Windows startet den Installer, Android und Android TV verwenden den Systemdialog. Falls ein alter Windows-Build beim Update `java/net/http/HttpClient` meldet, einmal den aktuellen MSI-Installer oben herunterladen und ausführen. Auf Enigma2 wird das Update über die App angeboten. Linux öffnet den Systeminstaller. Für die Wiedergabe unter Linux wird libmpv benötigt. Für das Linux-Portalpaket wird Python 3.11 bis 3.15 benötigt.
 
 Das optionale Portalpaket hat einen eigenen Update-Kanal. Auf Enigma2 wird es als separates IPK installiert. In Android und Desktop findest du es oben beim **S → Portale verwalten**.
+
+Unter **Einstellungen → Synchronisierung** kann ein eigener Streamall-Sync-Server über HTTPS verbunden werden. Synchronisiert werden Favoriten und Wiedergabepositionen. Auf Enigma2 findest du die Synchronisierung über **MENU** in den Streamall-Einstellungen.
 
 Hier liegen die Beschreibung und die fertigen App-Pakete. Entwicklung und Builds laufen im internen Repository.
