@@ -6,11 +6,17 @@
 | --- | --- |
 | Windows | [Installer (.msi)](https://github.com/xionix3/streamall/releases/latest/download/streamall-windows.msi) |
 | Android und Android TV | [App (.apk)](https://github.com/xionix3/streamall/releases/latest/download/streamall-android.apk) |
-| Enigma2 (SF8008) | [IPK für 3.4.51](https://github.com/xionix3/streamall/releases/download/v3.4.51/enigma2-plugin-extensions-streamall_3.4.51_sf8008.ipk) · [Aktueller Release](https://github.com/xionix3/streamall/releases/latest) |
+| Enigma2 (SF8008) | [IPK-Installer (.ipk)](https://github.com/xionix3/streamall/releases/latest/download/streamall-enigma2-sf8008.ipk) |
 | Linux | [Debian/Ubuntu (.deb)](https://github.com/xionix3/streamall/releases/latest/download/streamall-linux.deb) · [Fedora/openSUSE (.rpm)](https://github.com/xionix3/streamall/releases/latest/download/streamall-linux.rpm) |
 | Optionale Portale | [Portalpakete und Installation](https://github.com/xionix3/streamall-addon#installation) |
 
 [Alle Versionen und Prüfsummen](https://github.com/xionix3/streamall/releases)
+
+## Bedienung
+
+Die Ansicht lässt sich oben zwischen **Liste** und **Kacheln** wechseln. Vavoo bietet eine **Piconansicht** und zeigt verfügbare Senderlogos auch in der Liste. Die Auswahl bleibt für jedes Portal gespeichert. In den Einstellungen lässt sich die **Startansicht pro Portal** festlegen.
+
+Im Windows- und Linux-Player schalten die Vollbildtaste, **F** und **F11** in den Vollbildmodus. **Esc** kehrt zum Fenster zurück. Auf Desktop und Android lassen sich unter **Einstellungen → Sprachfilter** Tonsprachen und Untertitel auswählen. Die Filter verwenden die Sprachangaben der jeweiligen Quellen.
 
 ## Installation und Updates
 
