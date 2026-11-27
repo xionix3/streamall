@@ -6,7 +6,7 @@
 | --- | --- |
 | Windows | [Installer (.msi)](https://github.com/xionix3/streamall/releases/latest/download/streamall-windows.msi) |
 | Android und Android TV | [App (.apk)](https://github.com/xionix3/streamall/releases/latest/download/streamall-android.apk) |
-| Enigma2 (SF8008) | [IPK für 3.4.38](https://github.com/xionix3/streamall/releases/download/v3.4.38/enigma2-plugin-extensions-streamall_3.4.38_sf8008.ipk) · [Aktueller Release](https://github.com/xionix3/streamall/releases/latest) |
+| Enigma2 (SF8008) | [IPK für 3.4.40](https://github.com/xionix3/streamall/releases/download/v3.4.40/enigma2-plugin-extensions-streamall_3.4.40_sf8008.ipk) · [Aktueller Release](https://github.com/xionix3/streamall/releases/latest) |
 | Linux | [Debian/Ubuntu (.deb)](https://github.com/xionix3/streamall/releases/latest/download/streamall-linux.deb) · [Fedora/openSUSE (.rpm)](https://github.com/xionix3/streamall/releases/latest/download/streamall-linux.rpm) |
 | Optionale Portale | [Portalpakete und Installation](https://github.com/xionix3/streamall-addon#installation) |
 
